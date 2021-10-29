@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+div {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    padding: 20px; /*inside of the border*/
+    margin: 20px; /*outside of the border*/
+    font-family: Arial, sans-serif; /*what font we want to use*/
+    font-size: 28px;
+    border: 3px solid black;
+}
+td, th{
+    border: 1px solid black;
+    padding: 5px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
